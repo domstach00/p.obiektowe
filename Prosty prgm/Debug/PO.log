@@ -1,0 +1,16 @@
+﻿  samochod.cpp
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(9,6): error C2062: nieoczekiwany typ "void"
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(9,27): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(9,27): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(61,25): error C2084: funkcja "void Samochody::zapis(void)" ma już treść
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(34): message : zobacz poprzednią definicję „zapis”
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(69,12): error C2065: "n": niezadeklarowany identyfikator
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(70,24): error C2065: "n": niezadeklarowany identyfikator
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(72,13): error C2065: "tab": niezadeklarowany identyfikator
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(73,13): error C2065: "tab": niezadeklarowany identyfikator
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(74,13): error C2065: "tab": niezadeklarowany identyfikator
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(75,13): error C2065: "tab": niezadeklarowany identyfikator
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(76,13): error C2065: "tab": niezadeklarowany identyfikator
+  Źródło.cpp
+  Generowanie kodu...
+C:\Users\Dominika\Desktop\Prosty prgm\samochod.cpp(77,13): error C2065: "tab": niezadeklarowany identyfikator
