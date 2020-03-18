@@ -1,0 +1,24 @@
+Audi
+A5 
+2007 
+3000 
+242554 
+Manual
+Mercedes 
+GLC 
+2017 
+2143 
+30 800 
+Automat
+Skoda 
+Yeti 
+2011 
+1968 
+240 000 
+Manual
+BMW 
+X3 
+2016 
+1995 
+99 500 
+Automat
